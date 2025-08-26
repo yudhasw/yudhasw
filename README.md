@@ -8,7 +8,7 @@
  🌱 Saat ini tertarik pada pemrograman back-end Node.js, dan software quality assurance.
 
  📫 How to reach me: 
-     Instagram  : @__yudha.sw
+     Instagram  : @__yudha.sw; 
      Gmail      : yudha.sw2006@gmail.com
 
 <!--
