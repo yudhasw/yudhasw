@@ -5,7 +5,7 @@
  mempersiapkan diri untuk dunia kerja. Memiliki ketertarikan dalam hal pengembangan web,
  data analytics, machine learning, dan software quality assurance.
 
- 🌱 Saat ini tertarik mendalami bahasa pemrograman JavaScript, Python, dan Data Analytics.
+ 🌱 Saat ini tertarik mendalami bahasa pemrograman JavaScript, dan data analytics.
 
  📫 How to reach me: 
      Instagram  : @__yudha.sw; 
