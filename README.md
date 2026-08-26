@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 🔭 Mahasiswa tingkat tiga pada Universitas Telkom jurusan Informatika. Memiliki minat dalam
- mengembangkan ilmu terkait bidang teknologi dan informasi lebih dalam, menambah kenalan, dan
+ mengembangkan ilmu terkait bidang teknologi dan informasi lebih dalam, menambah relasi, dan
  mempersiapkan diri untuk dunia kerja. Memiliki ketertarikan dalam hal pengembangan web,
- data analytics, machine learning, dan software quality assurance.
+ data analytics, dan machine learning.
 
- 🌱 Saat ini tertarik mendalami bahasa pemrograman JavaScript, dan data analytics.
+ 🌱 Saat ini tertarik mendalami machine learning dan AI engineering
 
  📫 How to reach me: 
      Instagram  : @__yudha.sw; 
